@@ -1,1 +1,1 @@
-require('./src/extractor.img');
+module.exports = require('./src/extractor.img');

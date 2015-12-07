@@ -1,6 +1,6 @@
 {
   "name": "extract-image-props-from-html-string",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Takes an HTML string and can extract properties from an embedded img tag",
   "main": "index.js",
   "scripts": {
