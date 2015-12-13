@@ -2,6 +2,9 @@
 
 ## Change Log
 
+### 0.2.2
+* FIX Change to point to src/index.js
+
 ### 0.2.1
 * ADD Changelog (forgot!)
 

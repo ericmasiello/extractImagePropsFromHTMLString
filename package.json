@@ -1,8 +1,8 @@
 {
   "name": "extract-image-props-from-html-string",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Takes an HTML string and can extract properties from an embedded img tag",
-  "main": "dist/bundle.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "node ./node_modules/.bin/webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
