@@ -1,1 +1,0 @@
-module.exports = require('./extractor.img.js');

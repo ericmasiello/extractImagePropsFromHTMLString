@@ -2,6 +2,11 @@
 
 ## Change Log
 
+### 0.2.3
+* FIX Simplify build
+* CHANGE change package.json to point to build/index.js
+* REMOVE dist/bundle.js
+
 ### 0.2.2
 * FIX Change to point to src/index.js
 
